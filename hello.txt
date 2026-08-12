@@ -1,0 +1,2 @@
+Hello from Castorice Agent!
+This file was created by the Agent itself.
