@@ -1,0 +1,4 @@
+Castorice 写入测试
+时间：本文件由 Castorice Agent 通过 GitHub Contents API 自动创建
+用途：验证 L4 权限下的 GitHub 写入能力
+状态：✅ 写入成功
